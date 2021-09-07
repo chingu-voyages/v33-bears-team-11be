@@ -1,0 +1,29 @@
+{
+	"name": "v33-bears-team-11be",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"start": "node src/server.js",
+		"dev": "nodemon src/server.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/chingu-voyages/v33-bears-team-11be.git"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/chingu-voyages/v33-bears-team-11be/issues"
+	},
+	"homepage": "https://github.com/chingu-voyages/v33-bears-team-11be#readme",
+	"dependencies": {
+		"cors": "^2.8.5",
+		"express": "^4.17.1",
+		"morgan": "^1.10.0"
+	},
+	"devDependencies": {
+		"nodemon": "^2.0.12"
+	}
+}
